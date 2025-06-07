@@ -22,11 +22,13 @@
 ХОД РАБОТ</br>
 Сбор ТЗ на визуализацию (Елена Трацевская)</br>
 Сбор и очистка данных (Сергей Архипов)
-Сохдание интерактивного дашборда (Мария Гирда)</br>
+Сохдание интерактивного дашборда (Мария Гирда)</br></br></br>
+
+![01_Данные](https://github.com/user-attachments/assets/7270a3c0-237e-4243-8b3b-330e4bf47026)
 
 Данные от организаторов были дополнены следующими показателями:</br>
-[Площадь и плотность населения](https://docs.yandex.ru/docs/view?url=ya-browser%3A%2F%2F4DT1uXEPRrJRXlUFoewruFvyjbmqb4vlV7xuR8B4zsYoF9njtcusEgv5WZioIKTa4eq62GnPZ5UDLVGj8DTKPCw3cm6FpmWeiK9BhlqCFFLkuP_3IcYLA2jkFtAa5YxSDlqXtChf16hJB0qFKi8Cnw%3D%3D%3Fsign%3DOFhrGxgo7hspimtwUieVD6-IlpuIUp1zoNd-aGJHWMo%3D&name=Ejegod_02-01_2022.xlsx)<br>  
-[Данные о зарплате](https://showdata.rosstat.gov.ru/report/278170/)<br>
+[Площадь и плотность населения](https://docs.yandex.ru/docs/view?url=ya-browser%3A%2F%2F4DT1uXEPRrJRXlUFoewruFvyjbmqb4vlV7xuR8B4zsYoF9njtcusEgv5WZioIKTa4eq62GnPZ5UDLVGj8DTKPCw3cm6FpmWeiK9BhlqCFFLkuP_3IcYLA2jkFtAa5YxSDlqXtChf16hJB0qFKi8Cnw%3D%3D%3Fsign%3DOFhrGxgo7hspimtwUieVD6-IlpuIUp1zoNd-aGJHWMo%3D&name=Ejegod_02-01_2022.xlsx)    
+[Данные о зарплате](https://showdata.rosstat.gov.ru/report/278170/)    
 [Уровень безработицы](https://showdata.rosstat.gov.ru/report/274316/)<br> 
 
 Обработка данных</br>
@@ -36,14 +38,17 @@
    и  сгруппировали по регионам
 5.  По возрасту выделили категорию трудоспособности, для мужчин 16-61 год, для женщин 16-55 лет
 6.  В данных о зарплатах выделили категории по ОКВЕД 
-7.  Добавили данные о проценте безработице по регионам 
-
+7.  Добавили данные о проценте безработице по регионам
+</br></br>
 ![02_Население 1](https://github.com/user-attachments/assets/ecf5f144-0931-4bef-a5f1-4c866643bfe7)
-<div id="socials" align="center">Ведён показатель  «Коэффициент пенсионной нагрузки» - это отношение нетрудоспособных ко всем. Показывает уровень региона и его будущие проблемы с рабочими, а также возможный будущий дефицит социального бюджета на обеспечение пенсий</div>
+Ведён показатель  «Коэффициент пенсионной нагрузки» - это отношение нетрудоспособных ко всем.</br> 
+Показывает уровень региона и его будущие проблемы с рабочими,</br> 
+а также возможный будущий дефицит социального бюджета на обеспечение пенсий</div>
 
 ![03_ЗП](https://github.com/user-attachments/assets/674a09f2-17f6-4867-8a59-efcd1918333f)
-<div id="socials" align="center">Неожиданный вывод - ИТ не самая дорогая отрасль. При том во всех регионах.</div>
+Неожиданный вывод - ИТ не самая дорогая отрасль. </br>
+При том во всех регионах.</div>
 
 ![04_Сравнение](https://github.com/user-attachments/assets/c8f8bfec-1cf7-4730-8b01-1f78cbce8a89)
-Данный слайд выполнен с независимомыми фильтрами и даёт возможность выбрать два региона и сравнить показатели по каждому.
+Данный слайд выполнен с независимомыми фильтрами и даёт возможность выбрать два региона</br> и сравнить показатели по каждому.
 
